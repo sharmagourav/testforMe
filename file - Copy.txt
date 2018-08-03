@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asfaf123
+=======
+asfaf123
+>>>>>>> 6beeb86816618399e21b566a19a217c7fc3bebe4
 sdfsdfsdfsdfsdf
